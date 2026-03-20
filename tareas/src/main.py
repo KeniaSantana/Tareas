@@ -1,5 +1,5 @@
 import flet as ft
-from models.usuario import crear_tabla
+from src.models.usuario import crear_tabla
 
 def main(page: ft.Page):
 

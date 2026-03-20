@@ -1,4 +1,4 @@
-from database.db import get_connection
+from src.models.usuario import crear_tabla
 
 def crear_tabla():
     conn = get_connection()
